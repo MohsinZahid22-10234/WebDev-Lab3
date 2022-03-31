@@ -1,0 +1,33 @@
+#Sign1{
+    background-color: blue;
+}
+#Section1{
+    text-align: right;
+    font-size: larger;
+}
+p{
+    text-align: center;
+    image-orientation: from-image;
+    width: 3000;
+    height: 3000;
+}
+form{
+    text-align: center;
+}
+#Bar{
+    border-radius: 18px;
+    color: grey;
+    padding: 20px;
+    width: 800px;
+    height:5px;
+    text-align: center;
+
+}
+i{
+    float: left;
+    width: 720px;
+    color: grey;
+    font-size: 17px;
+    cursor: pointer;
+
+}
