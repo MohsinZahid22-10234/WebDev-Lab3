@@ -1,0 +1,13 @@
+body{
+    background-color: #1bb1ec;
+}
+fieldset{
+    display: inline-block;
+    background-color: #dde1e7;
+    text-align: left;
+
+}
+form{
+    text-align: center;
+}
+
